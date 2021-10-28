@@ -1,0 +1,16 @@
+.ml-3{
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.UserCard{
+    border: solid;
+    border-radius: 10%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color: #1a5a091f;
+    
+    
+}
